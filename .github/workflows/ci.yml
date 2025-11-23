@@ -412,6 +412,18 @@ jobs:
           df -h
           docker system df -v
           docker buildx du
+      - name: Maximize space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/share/boost
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+      - name: Inspect cache/disk
+        if: always()
+        run: |
+          df -h
+          docker system df -v
+          docker buildx du
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
