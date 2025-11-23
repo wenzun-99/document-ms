@@ -406,6 +406,12 @@ jobs:
           registry: quay.io
           username: ${{ secrets.QUAY_USERNAME }}
           password: ${{ secrets.QUAY_ROBOT_TOKEN }}
+      - name: Inspect cache/disk
+        if: always()
+        run: |
+          df -h
+          docker system df -v
+          docker buildx du
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
@@ -427,6 +433,12 @@ jobs:
         if: steps.build-vars.outputs.can-push == 'true'
         run: |
           docker buildx imagetools inspect ${{ fromJSON(steps.docker-meta.outputs.json).tags[0] }}
+      - name: Inspect cache/disk
+        if: always()
+        run: |
+          df -h
+          docker system df -v
+          docker buildx du
       - name: Export frontend artifact from docker
         if: steps.build-vars.outputs.can-push == 'true'
         run: |
