@@ -200,7 +200,8 @@ RUN --mount=type=cache,target=${UV_CACHE_DIR},id=python-cache \
     && apt-get install --yes --quiet --no-install-recommends ${BUILD_PACKAGES} \
   && echo "Installing Python requirements" \
     && uv export --quiet --no-dev --all-extras --format requirements-txt --output-file requirements.txt \
-    && uv pip install --system --no-python-downloads --python-preference system --requirements requirements.txt \
+    && UV_INDEX="https://pypi.org/simple https://download.pytorch.org/whl/cpu" UV_INDEX_STRATEGY=unsafe-best-match \
+       uv pip install --system --no-python-downloads --python-preference system --requirements requirements.txt \
   && echo "Installing NLTK data" \
     && python3 -W ignore::RuntimeWarning -m nltk.downloader -d "/usr/share/nltk_data" snowball_data \
     && python3 -W ignore::RuntimeWarning -m nltk.downloader -d "/usr/share/nltk_data" stopwords \
