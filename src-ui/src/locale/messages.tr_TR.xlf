@@ -892,7 +892,7 @@
           <context context-type="sourcefile">src/app/components/admin/logs/logs.component.html</context>
           <context context-type="linenumber">60</context>
         </context-group>
-        <target state="needs-translation">Jump to bottom</target>
+        <target state="translated">En alta git</target>
       </trans-unit>
       <trans-unit id="1255048712725285892" datatype="html">
         <source>Options to customize appearance, notifications and more. Settings apply to the &lt;strong&gt;current user only&lt;/strong&gt;.</source>
@@ -2212,7 +2212,7 @@
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">241</context>
         </context-group>
-        <target state="translated">Çöp kutusu</target>
+        <target state="translated">Çöp Kutusu</target>
       </trans-unit>
       <trans-unit id="3818027200170621545" datatype="html">
         <source>Manage trashed documents that are pending deletion.</source>
@@ -6620,7 +6620,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/profile-edit-dialog/profile-edit-dialog.component.html</context>
           <context context-type="linenumber">114</context>
         </context-group>
-        <target state="translated">Doğrulama uygulamanızla QR kodunu tarayın ve ardından aşağıdaki kodu girin</target>
+        <target state="translated">Doğrulama uygulamanızla QR kodunu tarayın ve ardından aşağıya kodu girin</target>
       </trans-unit>
       <trans-unit id="5867169599865838267" datatype="html">
         <source>Authenticator secret</source>
@@ -6660,7 +6660,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/profile-edit-dialog/profile-edit-dialog.component.html</context>
           <context context-type="linenumber">158</context>
         </context-group>
-        <target state="needs-translation">Copy codes</target>
+        <target state="translated">Kodları kopyala</target>
       </trans-unit>
       <trans-unit id="6141884091799403188" datatype="html">
         <source>Emails must match</source>
@@ -6700,7 +6700,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/profile-edit-dialog/profile-edit-dialog.component.ts</context>
           <context context-type="linenumber">225</context>
         </context-group>
-        <target state="needs-translation">Error generating auth token</target>
+        <target state="translated">Yetkilendirme tokeni oluştururken bir hatayla karşılaşıldı</target>
       </trans-unit>
       <trans-unit id="4153637646944982460" datatype="html">
         <source>Error disconnecting social account</source>
@@ -6708,7 +6708,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/profile-edit-dialog/profile-edit-dialog.component.ts</context>
           <context context-type="linenumber">250</context>
         </context-group>
-        <target state="needs-translation">Error disconnecting social account</target>
+        <target state="translated">Sosyal hesapları kaldırırken bir hata ile karşılaşıldı</target>
       </trans-unit>
       <trans-unit id="5939111172212776886" datatype="html">
         <source>Error fetching TOTP settings</source>
@@ -6764,7 +6764,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/share-links-dialog/share-links-dialog.component.html</context>
           <context context-type="linenumber">8,10</context>
         </context-group>
-        <target state="needs-translation"> No existing links </target>
+        <target state="translated"> Herhangi bir mevcut link bulunmuyor </target>
       </trans-unit>
       <trans-unit id="7419704019640008953" datatype="html">
         <source>Share</source>
@@ -6788,7 +6788,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/share-links-dialog/share-links-dialog.component.html</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target state="needs-translation">Expires</target>
+        <target state="translated">Son Kullanım Tarihi</target>
       </trans-unit>
       <trans-unit id="4776429682428363094" datatype="html">
         <source>1 day</source>
@@ -6964,7 +6964,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">76</context>
         </context-group>
-        <target state="translated">Göç Durumu</target>
+        <target state="translated">Veritabanı İşlemleri Durumu</target>
       </trans-unit>
       <trans-unit id="7489316373554112115" datatype="html">
         <source>Up to date</source>
@@ -6980,7 +6980,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">85</context>
         </context-group>
-        <target state="needs-translation">Latest Migration</target>
+        <target state="translated">En Son Uygulanan Veritabanı İşlemleri</target>
       </trans-unit>
       <trans-unit id="4632965004151576238" datatype="html">
         <source>Pending Migrations</source>
@@ -6988,7 +6988,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">87</context>
         </context-group>
-        <target state="needs-translation">Pending Migrations</target>
+        <target state="translated">Bekleyen Veritabanı İşlemleri</target>
       </trans-unit>
       <trans-unit id="2790343143501919450" datatype="html">
         <source>Tasks Queue</source>
@@ -7068,7 +7068,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">218</context>
         </context-group>
-        <target state="needs-translation">Last Trained</target>
+        <target state="translated">Son Eğitim Tarihi</target>
       </trans-unit>
       <trans-unit id="6427836860962380759" datatype="html">
         <source>Sanity Checker</source>
@@ -7076,7 +7076,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">223</context>
         </context-group>
-        <target state="needs-translation">Sanity Checker</target>
+        <target state="translated">Son Geçerlilik Kontrol Edilme Tarihi</target>
       </trans-unit>
       <trans-unit id="6578747070254776938" datatype="html">
         <source>Last Run</source>
@@ -7188,7 +7188,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
           <context context-type="linenumber">363</context>
         </context-group>
-        <target state="needs-translation">Filter by document type</target>
+        <target state="translated">Belge türüne göre filtrele</target>
       </trans-unit>
       <trans-unit id="157572966557284263" datatype="html">
         <source>Filter by storage path</source>
@@ -7204,7 +7204,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
           <context context-type="linenumber">370</context>
         </context-group>
-        <target state="needs-translation">Filter by storage path</target>
+        <target state="translated">Depolama dizinine göre filtrele</target>
       </trans-unit>
       <trans-unit id="883965278435032344" datatype="html">
         <source>Filter by owner</source>
@@ -7446,7 +7446,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
-        <target state="needs-translation">-</target>
+        <target state="translated">-</target>
       </trans-unit>
       <trans-unit id="8479257185772414452" datatype="html">
         <source>+</source>
@@ -7454,7 +7454,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
-        <target state="needs-translation">+</target>
+        <target state="translated">+</target>
       </trans-unit>
       <trans-unit id="8659635229098859487" datatype="html">
         <source>Download original</source>
@@ -7474,7 +7474,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.html</context>
           <context context-type="linenumber">91</context>
         </context-group>
-        <target state="needs-translation">Reprocess</target>
+        <target state="translated">Yeniden İşle</target>
       </trans-unit>
       <trans-unit id="7049887240439736400" datatype="html">
         <source>Print</source>
@@ -7826,7 +7826,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">416,418</context>
         </context-group>
-        <target state="needs-translation">An error occurred loading content: <x id="PH" equiv-text="err.message ?? err.toString()"/></target>
+        <target state="translated">İçerik yüklenirken bir hata ile karşılaşıldı: <x id="PH" equiv-text="err.message ?? err.toString()"/></target>
       </trans-unit>
       <trans-unit id="3200733026060976258" datatype="html">
         <source>Document changes detected</source>
@@ -7842,7 +7842,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">451</context>
         </context-group>
-        <target state="needs-translation">The version of this document in your browser session appears older than the existing version.</target>
+        <target state="translated">Tarayıcı oturumunuzdaki bu belgenin sürümü, mevcut sürümden daha eski görünüyor.</target>
       </trans-unit>
       <trans-unit id="237142428785956348" datatype="html">
         <source>Saving the document here may overwrite other changes that were made. To restore the existing version, discard your changes or close the document.</source>
@@ -7850,7 +7850,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">452</context>
         </context-group>
-        <target state="needs-translation">Saving the document here may overwrite other changes that were made. To restore the existing version, discard your changes or close the document.</target>
+        <target state="translated">Belgeyi buraya kaydetmek, yapılan diğer değişikliklerin üzerine yazabilir. Mevcut sürümü geri yüklemek için değişikliklerinizi geri alın veya belgeyi kapatın.</target>
       </trans-unit>
       <trans-unit id="8720977247725652816" datatype="html">
         <source>Ok</source>
@@ -7938,7 +7938,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">900</context>
         </context-group>
-        <target state="needs-translation">Error saving document "<x id="PH" equiv-text="this.document.title"/>"</target>
+        <target state="translated">Belgeyi kaydederken bir hata ile karşılaşıldı "<x id="PH" equiv-text="this.document.title"/>"</target>
       </trans-unit>
       <trans-unit id="448882439049417053" datatype="html">
         <source>Error saving document</source>
@@ -7954,7 +7954,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">982</context>
         </context-group>
-        <target state="needs-translation">Do you really want to move the document "<x id="PH" equiv-text="this.document.title"/>" to the trash?</target>
+        <target state="translated"><x id="PH" equiv-text="this.document.title"/> belgesini gerçekten çöp kutusuna taşımak istiyor musunuz?</target>
       </trans-unit>
       <trans-unit id="282586936710748252" datatype="html">
         <source>Documents can be restored prior to permanent deletion.</source>
@@ -8046,7 +8046,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1173</context>
         </context-group>
-        <target state="needs-translation">Page Fit</target>
+        <target state="translated">Sayfa Sığdır</target>
       </trans-unit>
       <trans-unit id="4663705961777238777" datatype="html">
         <source>PDF edit operation for &quot;<x id="PH" equiv-text="this.document.title"/>&quot; will begin in the background.</source>
@@ -8054,7 +8054,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1411</context>
         </context-group>
-        <target state="needs-translation">PDF edit operation for "<x id="PH" equiv-text="this.document.title"/>" will begin in the background.</target>
+        <target state="translated">"<x id="PH" equiv-text="this.document.title"/>" için PDF düzenleme işlemleri arka planda başlayacak.</target>
       </trans-unit>
       <trans-unit id="9043972994040261999" datatype="html">
         <source>Error executing PDF edit operation</source>
@@ -8062,7 +8062,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1423</context>
         </context-group>
-        <target state="needs-translation">Error executing PDF edit operation</target>
+        <target state="translated">PDF düzenleme işlemleri uygulanırken bir hata ile karşılaşıldı</target>
       </trans-unit>
       <trans-unit id="3740891324955700797" datatype="html">
         <source>Print failed.</source>
@@ -8078,7 +8078,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">1472</context>
         </context-group>
-        <target state="needs-translation">Error loading document for printing.</target>
+        <target state="translated">Belgeyi yazdırmaya hazırlarken bir hata ile karşılaşıldı.</target>
       </trans-unit>
       <trans-unit id="6085793215710522488" datatype="html">
         <source>An error occurred loading tiff: <x id="PH" equiv-text="err.toString()"/></source>
@@ -8178,7 +8178,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.html</context>
           <context context-type="linenumber">62</context>
         </context-group>
-        <target state="needs-translation">Filter custom fields</target>
+        <target state="translated">Özel alanları filtrele</target>
       </trans-unit>
       <trans-unit id="5139192806922838657" datatype="html">
         <source>Set values</source>
@@ -8186,7 +8186,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.html</context>
           <context context-type="linenumber">70</context>
         </context-group>
-        <target state="needs-translation">Set values</target>
+        <target state="translated">Değerleri ayarla</target>
       </trans-unit>
       <trans-unit id="1050269006235116171" datatype="html">
         <source>Rotate</source>
@@ -8242,7 +8242,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">290</context>
         </context-group>
-        <target state="needs-translation">Error executing bulk operation</target>
+        <target state="translated">Toplu işlemler çalıştırılırken bir hata ile karşılaşıldı</target>
       </trans-unit>
       <trans-unit id="7894972847287473517" datatype="html">
         <source>&quot;<x id="PH" equiv-text="items[0].name"/>&quot;</source>
@@ -8280,7 +8280,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">405</context>
         </context-group>
-        <target state="translated">Etiket atanmayi doğrulayın</target>
+        <target state="translated">Etiket atanmasını onaylayın</target>
       </trans-unit>
       <trans-unit id="6619516195038467207" datatype="html">
         <source>This operation will add the tag &quot;<x id="PH" equiv-text="tag.name"/>&quot; to <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -8296,7 +8296,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">416,418</context>
         </context-group>
-        <target state="needs-translation">This operation will add the tags <x id="PH" equiv-text="this._localizeList(           changedTags.itemsToAdd         )"/> to <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Bu işlem <x id="PH" equiv-text="this._localizeList(           changedTags.itemsToAdd         )"/> etiketlerini <x id="PH_1" equiv-text="this.list.selected.size"/> seçili belge veya belgelere ekleyecektir.</target>
       </trans-unit>
       <trans-unit id="7181166515756808573" datatype="html">
         <source>This operation will remove the tag &quot;<x id="PH" equiv-text="tag.name"/>&quot; from <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -8312,7 +8312,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">429,431</context>
         </context-group>
-        <target state="needs-translation">This operation will remove the tags <x id="PH" equiv-text="this._localizeList(           changedTags.itemsToRemove         )"/> from <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Bu işlem <x id="PH" equiv-text="this._localizeList(           changedTags.itemsToRemove         )"/> etiketlerini <x id="PH_1" equiv-text="this.list.selected.size"/> seçili belge veya belgelerden kaldıracaktır.</target>
       </trans-unit>
       <trans-unit id="2739066218579571288" datatype="html">
         <source>This operation will add the tags <x id="PH" equiv-text="this._localizeList(           changedTags.itemsToAdd         )"/> and remove the tags <x id="PH_1" equiv-text="this._localizeList(           changedTags.itemsToRemove         )"/> on <x id="PH_2" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -8376,7 +8376,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">550</context>
         </context-group>
-        <target state="needs-translation">Confirm storage path assignment</target>
+        <target state="translated">Depolama dizinlerini atamayı onaylayın</target>
       </trans-unit>
       <trans-unit id="8750527458618415924" datatype="html">
         <source>This operation will assign the storage path &quot;<x id="PH" equiv-text="storagePath.name"/>&quot; to <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -8472,7 +8472,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">828</context>
         </context-group>
-        <target state="needs-translation">Rotate confirm</target>
+        <target state="translated">Döndürmeyi onaylayın</target>
       </trans-unit>
       <trans-unit id="6390006284731990222" datatype="html">
         <source>This operation will permanently rotate the original version of <x id="PH" equiv-text="this.list.selected.size"/> document(s).</source>
@@ -8480,7 +8480,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">829</context>
         </context-group>
-        <target state="needs-translation">This operation will permanently rotate the original version of <x id="PH" equiv-text="this.list.selected.size"/> document(s).</target>
+        <target state="translated">Bu işlem <x id="PH" equiv-text="this.list.selected.size"/> belgede, orijinal sürümündeki sayfaları kalıcı olarak döndürecektir.</target>
       </trans-unit>
       <trans-unit id="7910756456450124185" datatype="html">
         <source>Merge confirm</source>
@@ -8488,7 +8488,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">848</context>
         </context-group>
-        <target state="needs-translation">Merge confirm</target>
+        <target state="translated">Birleştirmeyi onaylayın</target>
       </trans-unit>
       <trans-unit id="7643543647233874431" datatype="html">
         <source>This operation will merge <x id="PH" equiv-text="this.list.selected.size"/> selected documents into a new document.</source>
@@ -8496,7 +8496,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">849</context>
         </context-group>
-        <target state="needs-translation">This operation will merge <x id="PH" equiv-text="this.list.selected.size"/> selected documents into a new document.</target>
+        <target state="translated">Bu işlem <x id="PH" equiv-text="this.list.selected.size"/> belgeyi yeni bir belgede birleştirecektir.</target>
       </trans-unit>
       <trans-unit id="7869008840945899895" datatype="html">
         <source>Merged document will be queued for consumption.</source>
@@ -8536,7 +8536,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/custom-fields-bulk-edit-dialog/custom-fields-bulk-edit-dialog.component.html</context>
           <context context-type="linenumber">13</context>
         </context-group>
-        <target state="needs-translation">Select custom fields</target>
+        <target state="translated">Özel alanları seçin</target>
       </trans-unit>
       <trans-unit id="8244572554104037643" datatype="html">
         <source>{VAR_PLURAL, plural, =1 {This operation will also remove 1 custom field from the selected documents.} other {This operation will also
@@ -8581,7 +8581,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
           <context context-type="linenumber">91,92</context>
         </context-group>
-        <target state="needs-translation">Created: <x id="INTERPOLATION" equiv-text="{{ document.created | customDate }}"/></target>
+        <target state="translated">Oluşturulmuş: <x id="INTERPOLATION" equiv-text="{{ document.created | customDate }}"/></target>
       </trans-unit>
       <trans-unit id="2030261243264601523" datatype="html">
         <source>Added: <x id="INTERPOLATION" equiv-text="{{ document.added | customDate }}"/></source>
@@ -8661,7 +8661,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">Toggle tag filter</target>
+        <target state="translated">Etiket filtresini aç/kapat</target>
       </trans-unit>
       <trans-unit id="4648526799630820486" datatype="html">
         <source>Toggle correspondent filter</source>
@@ -8677,7 +8677,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
-        <target state="needs-translation">Toggle document type filter</target>
+        <target state="translated">Belge türü filtresini aç/kapat</target>
       </trans-unit>
       <trans-unit id="8950368321707344185" datatype="html">
         <source>Toggle storage path filter</source>
@@ -8685,7 +8685,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
           <context context-type="linenumber">66</context>
         </context-group>
-        <target state="needs-translation">Toggle storage path filter</target>
+        <target state="translated">Depolama dizini filtresini aç/kapat</target>
       </trans-unit>
       <trans-unit id="3797570084942068182" datatype="html">
         <source>Select</source>
@@ -8837,7 +8837,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
           <context context-type="linenumber">169</context>
         </context-group>
-        <target state="needs-translation">Error while loading documents</target>
+        <target state="translated">Belgeleri yüklerken bir hata ile karşılaşıldı</target>
       </trans-unit>
       <trans-unit id="494022736054110363" datatype="html">
         <source>Sort by ASN</source>
@@ -8989,7 +8989,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
           <context context-type="linenumber">297,298</context>
         </context-group>
-        <target state="needs-translation">Sort by <x id="INTERPOLATION" equiv-text="{{getDisplayCustomFieldTitle(field_id)}}"/></target>
+        <target state="translated"><x id="INTERPOLATION" equiv-text="{{getDisplayCustomFieldTitle(field_id)}}"/> göre sırala</target>
       </trans-unit>
       <trans-unit id="2179847500064178686" datatype="html">
         <source>Edit document</source>
@@ -9053,7 +9053,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.ts</context>
           <context context-type="linenumber">391</context>
         </context-group>
-        <target state="needs-translation">Failed to save view "<x id="PH" equiv-text="this.list.activeSavedViewTitle"/>".</target>
+        <target state="translated">"<x id="PH" equiv-text="this.list.activeSavedViewTitle"/>" görünümünü kaydederken bir hata ile karşılaşıldı.</target>
       </trans-unit>
       <trans-unit id="6837554170707123455" datatype="html">
         <source>View &quot;<x id="PH" equiv-text="savedView.name"/>&quot; created successfully.</source>
@@ -9157,7 +9157,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
           <context context-type="linenumber">289,293</context>
         </context-group>
-        <target state="needs-translation">Document type: <x id="PH" equiv-text="this.documentTypeSelectionModel.items.find(                 (dt) =&gt; dt.id == +rule.value               )?.name"/></target>
+        <target state="translated">Belge türü: <x id="PH" equiv-text="this.documentTypeSelectionModel.items.find(                 (dt) =&gt; dt.id == +rule.value               )?.name"/></target>
       </trans-unit>
       <trans-unit id="4362173610367509215" datatype="html">
         <source>Without document type</source>
@@ -9173,7 +9173,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
           <context context-type="linenumber">301,305</context>
         </context-group>
-        <target state="needs-translation">Storage path: <x id="PH" equiv-text="this.storagePathSelectionModel.items.find(                 (sp) =&gt; sp.id == +rule.value               )?.name"/></target>
+        <target state="translated">Depolama dizini: <x id="PH" equiv-text="this.storagePathSelectionModel.items.find(                 (sp) =&gt; sp.id == +rule.value               )?.name"/></target>
       </trans-unit>
       <trans-unit id="1562820715074533164" datatype="html">
         <source>Without storage path</source>
@@ -9189,7 +9189,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
           <context context-type="linenumber">311,313</context>
         </context-group>
-        <target state="needs-translation">Tag: <x id="PH" equiv-text="this.tagSelectionModel.items.find((t) =&gt; t.id == +rule.value)?.name"/></target>
+        <target state="translated">Etiket: <x id="PH" equiv-text="this.tagSelectionModel.items.find((t) =&gt; t.id == +rule.value)?.name"/></target>
       </trans-unit>
       <trans-unit id="6494566478302448576" datatype="html">
         <source>Without any tag</source>
@@ -9285,7 +9285,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/document-list/save-view-config-dialog/save-view-config-dialog.component.html</context>
           <context context-type="linenumber">13</context>
         </context-group>
-        <target state="needs-translation">Filter rules error occurred while saving this view</target>
+        <target state="translated">Bu görünümü kaydederken filtre kuralları ile ilgili bir hata meydana geldi</target>
       </trans-unit>
       <trans-unit id="6438839705789707938" datatype="html">
         <source>The error returned was</source>
@@ -9373,7 +9373,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/file-drop/file-drop.component.ts</context>
           <context context-type="linenumber">142</context>
         </context-group>
-        <target state="needs-translation">Failed to read dropped items: <x id="PH" equiv-text="e.message"/></target>
+        <target state="translated">Bırakılan öğeleri okurken bir hata meydana geldi: <x id="PH" equiv-text="e.message"/></target>
       </trans-unit>
       <trans-unit id="6316128875819022658" datatype="html">
         <source>correspondent</source>
@@ -9413,7 +9413,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/custom-fields/custom-fields.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">Customize the data fields that can be attached to documents.</target>
+        <target state="translated">Belgelere eklenebilecek veri alanlarını özelleştirin.</target>
       </trans-unit>
       <trans-unit id="8019331026479399960" datatype="html">
         <source>Add Field</source>
@@ -9453,7 +9453,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
           <context context-type="linenumber">117</context>
         </context-group>
-        <target state="needs-translation">Filter Documents (<x id="INTERPOLATION" equiv-text="{{ field.document_count }}"/>)</target>
+        <target state="translated">Belgeleri Filtrele (<x id="INTERPOLATION" equiv-text="{{ field.document_count }}"/>)</target>
       </trans-unit>
       <trans-unit id="651372623796033489" datatype="html">
         <source>No fields defined.</source>
@@ -9593,7 +9593,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
           <context context-type="linenumber">103</context>
         </context-group>
-        <target state="needs-translation">Mail rules</target>
+        <target state="translated">E-posta kuralları</target>
       </trans-unit>
       <trans-unit id="1372022816709469401" datatype="html">
         <source>Add Rule</source>
@@ -9629,7 +9629,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
           <context context-type="linenumber">143</context>
         </context-group>
-        <target state="needs-translation">View Processed Mail</target>
+        <target state="translated">İşlenmiş Postaları Görüntüle</target>
       </trans-unit>
       <trans-unit id="6751234988479444294" datatype="html">
         <source>No mail rules defined.</source>
@@ -9637,7 +9637,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
           <context context-type="linenumber">183</context>
         </context-group>
-        <target state="needs-translation">No mail rules defined.</target>
+        <target state="translated">Tanımlanmış bir posta kuralı mevcut değil.</target>
       </trans-unit>
       <trans-unit id="3178554336792037159" datatype="html">
         <source>Error retrieving mail accounts</source>
@@ -9645,7 +9645,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">105</context>
         </context-group>
-        <target state="needs-translation">Error retrieving mail accounts</target>
+        <target state="translated">Posta hesaplarından bilgi alırken bir hata meydana geldi</target>
       </trans-unit>
       <trans-unit id="5241231471117657636" datatype="html">
         <source>Error retrieving mail rules</source>
@@ -9653,7 +9653,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">127</context>
         </context-group>
-        <target state="needs-translation">Error retrieving mail rules</target>
+        <target state="translated">Posta kurallarını yüklerken bir hata meydana geldi</target>
       </trans-unit>
       <trans-unit id="763945516325093575" datatype="html">
         <source>OAuth2 authentication success</source>
@@ -9661,7 +9661,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">135</context>
         </context-group>
-        <target state="needs-translation">OAuth2 authentication success</target>
+        <target state="translated">OAuth2 yetkilendirmesi başarılı</target>
       </trans-unit>
       <trans-unit id="9022978370268070156" datatype="html">
         <source>OAuth2 authentication failed, see logs for details</source>
@@ -9669,7 +9669,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">146</context>
         </context-group>
-        <target state="needs-translation">OAuth2 authentication failed, see logs for details</target>
+        <target state="translated">OAuth2 yetkilendirmesi ile ilgili bir hata meydana geldi, detaylar için kayıtlara (logs) göz atın</target>
       </trans-unit>
       <trans-unit id="6327501535846658797" datatype="html">
         <source>Saved account &quot;<x id="PH" equiv-text="newMailAccount.name"/>&quot;.</source>
@@ -9677,7 +9677,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">170</context>
         </context-group>
-        <target state="needs-translation">Saved account "<x id="PH" equiv-text="newMailAccount.name"/>".</target>
+        <target state="translated">"<x id="PH" equiv-text="newMailAccount.name"/>" hesabı kaydedildi.</target>
       </trans-unit>
       <trans-unit id="8067594003836508139" datatype="html">
         <source>Error saving account.</source>
@@ -9685,7 +9685,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">182</context>
         </context-group>
-        <target state="needs-translation">Error saving account.</target>
+        <target state="translated">Hesabı kaydederken bir hata ile karşılaşıldı.</target>
       </trans-unit>
       <trans-unit id="5641934153807844674" datatype="html">
         <source>Confirm delete mail account</source>
@@ -9701,7 +9701,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">191</context>
         </context-group>
-        <target state="needs-translation">This operation will permanently delete this mail account.</target>
+        <target state="translated">Bu işlem, bu posta hesabını kalıcı olarak silecektir.</target>
       </trans-unit>
       <trans-unit id="5876433590301754883" datatype="html">
         <source>Deleted mail account &quot;<x id="PH" equiv-text="account.name"/>&quot;</source>
@@ -9709,7 +9709,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">201</context>
         </context-group>
-        <target state="needs-translation">Deleted mail account "<x id="PH" equiv-text="account.name"/>"</target>
+        <target state="translated">"<x id="PH" equiv-text="account.name"/>" posta hesabı silindi</target>
       </trans-unit>
       <trans-unit id="5981429299543258715" datatype="html">
         <source>Error deleting mail account &quot;<x id="PH" equiv-text="account.name"/>&quot;.</source>
@@ -9717,7 +9717,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">212</context>
         </context-group>
-        <target state="needs-translation">Error deleting mail account "<x id="PH" equiv-text="account.name"/>".</target>
+        <target state="translated">"<x id="PH" equiv-text="account.name"/>" posta hesabı silinirken bir hata meydana geldi.</target>
       </trans-unit>
       <trans-unit id="6424800796582120505" datatype="html">
         <source>Processing mail account &quot;<x id="PH" equiv-text="account.name"/>&quot;</source>
@@ -9725,7 +9725,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">224</context>
         </context-group>
-        <target state="needs-translation">Processing mail account "<x id="PH" equiv-text="account.name"/>"</target>
+        <target state="translated">"<x id="PH" equiv-text="account.name"/>" posta hesabı işleniyor</target>
       </trans-unit>
       <trans-unit id="3138185874003827652" datatype="html">
         <source>Error processing mail account &quot;<x id="PH" equiv-text="account.name"/>&quot;</source>
@@ -9733,7 +9733,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">229</context>
         </context-group>
-        <target state="needs-translation">Error processing mail account "<x id="PH" equiv-text="account.name"/>"</target>
+        <target state="translated">"<x id="PH" equiv-text="account.name"/>" posta hesabı işlenirken bir hata meydana geldi</target>
       </trans-unit>
       <trans-unit id="123368655395433699" datatype="html">
         <source>Saved rule &quot;<x id="PH" equiv-text="newMailRule.name"/>&quot;.</source>
@@ -9741,7 +9741,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">247</context>
         </context-group>
-        <target state="needs-translation">Saved rule "<x id="PH" equiv-text="newMailRule.name"/>".</target>
+        <target state="translated">"<x id="PH" equiv-text="newMailRule.name"/>" kuralı kaydedildi.</target>
       </trans-unit>
       <trans-unit id="8951124554918814321" datatype="html">
         <source>Error saving rule.</source>
@@ -9749,7 +9749,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">258</context>
         </context-group>
-        <target state="needs-translation">Error saving rule.</target>
+        <target state="translated">Kuralı kaydedilirken bir hata meydana geldi.</target>
       </trans-unit>
       <trans-unit id="3574401690710711341" datatype="html">
         <source>Rule &quot;<x id="PH" equiv-text="rule.name"/>&quot; enabled.</source>
@@ -9757,7 +9757,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">274</context>
         </context-group>
-        <target state="needs-translation">Rule "<x id="PH" equiv-text="rule.name"/>" enabled.</target>
+        <target state="translated">"<x id="PH" equiv-text="rule.name"/>" kuralı aktifleştirildi.</target>
       </trans-unit>
       <trans-unit id="7171685227222299542" datatype="html">
         <source>Rule &quot;<x id="PH" equiv-text="rule.name"/>&quot; disabled.</source>
@@ -9765,7 +9765,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">275</context>
         </context-group>
-        <target state="needs-translation">Rule "<x id="PH" equiv-text="rule.name"/>" disabled.</target>
+        <target state="translated">"<x id="PH" equiv-text="rule.name"/>" kuralı devre dışı bırakıldı.</target>
       </trans-unit>
       <trans-unit id="7238791203524413596" datatype="html">
         <source>Error toggling rule &quot;<x id="PH" equiv-text="rule.name"/>&quot;.</source>
@@ -9773,7 +9773,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">280</context>
         </context-group>
-        <target state="needs-translation">Error toggling rule "<x id="PH" equiv-text="rule.name"/>".</target>
+        <target state="translated">Kuralı açarken veya kapatırken bir hata meydana geldi "<x id="PH" equiv-text="rule.name"/>".</target>
       </trans-unit>
       <trans-unit id="3896080636020672118" datatype="html">
         <source>Confirm delete mail rule</source>
@@ -9781,7 +9781,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">291</context>
         </context-group>
-        <target state="needs-translation">Confirm delete mail rule</target>
+        <target state="translated">Posta hesabı kuralının silinmesini onaylayın</target>
       </trans-unit>
       <trans-unit id="2250372580580310337" datatype="html">
         <source>This operation will permanently delete this mail rule.</source>
@@ -9789,7 +9789,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">292</context>
         </context-group>
-        <target state="needs-translation">This operation will permanently delete this mail rule.</target>
+        <target state="translated">Bu işlem, bu posta kuralını kalıcı olarak silecektir.</target>
       </trans-unit>
       <trans-unit id="4357654589451732716" datatype="html">
         <source>Deleted mail rule &quot;<x id="PH" equiv-text="rule.name"/>&quot;</source>
@@ -9797,7 +9797,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">302</context>
         </context-group>
-        <target state="needs-translation">Deleted mail rule "<x id="PH" equiv-text="rule.name"/>"</target>
+        <target state="translated">"<x id="PH" equiv-text="rule.name"/>" posta kuralı silindi</target>
       </trans-unit>
       <trans-unit id="1696130068388341598" datatype="html">
         <source>Error deleting mail rule &quot;<x id="PH" equiv-text="rule.name"/>&quot;.</source>
@@ -9805,7 +9805,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">313</context>
         </context-group>
-        <target state="needs-translation">Error deleting mail rule "<x id="PH" equiv-text="rule.name"/>".</target>
+        <target state="translated">"<x id="PH" equiv-text="rule.name"/>" posta kuralı silinirken bir hata meydana geldi.</target>
       </trans-unit>
       <trans-unit id="3061362835271417984" datatype="html">
         <source>Permissions updated</source>
@@ -9813,7 +9813,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">337</context>
         </context-group>
-        <target state="needs-translation">Permissions updated</target>
+        <target state="translated">İzinler güncellendi</target>
       </trans-unit>
       <trans-unit id="4639647950943944112" datatype="html">
         <source>Error updating permissions</source>
@@ -9825,7 +9825,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
           <context context-type="linenumber">349</context>
         </context-group>
-        <target state="needs-translation">Error updating permissions</target>
+        <target state="translated">İzinler güncellenirken bir hata meydana geldi</target>
       </trans-unit>
       <trans-unit id="3501895737484542570" datatype="html">
         <source>Processed Mail for <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ rule.name }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/></source>
@@ -9833,7 +9833,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
-        <target state="needs-translation">Processed Mail for <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ rule.name }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/></target>
+        <target state="translated"><x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ rule.name }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> için postalar işlendi</target>
       </trans-unit>
       <trans-unit id="1991019495862291373" datatype="html">
         <source>No processed email messages found.</source>
@@ -9841,7 +9841,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">No processed email messages found.</target>
+        <target state="translated">İşlenmiş posta mesajı bulunamadı.</target>
       </trans-unit>
       <trans-unit id="8691920320483720007" datatype="html">
         <source>Received</source>
@@ -9849,7 +9849,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
-        <target state="needs-translation">Received</target>
+        <target state="translated">Teslim Alındı</target>
       </trans-unit>
       <trans-unit id="4749295647449765550" datatype="html">
         <source>Processed</source>
@@ -9857,7 +9857,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
-        <target state="needs-translation">Processed</target>
+        <target state="translated">İşlendi</target>
       </trans-unit>
       <trans-unit id="2175109571923803648" datatype="html">
         <source>Processed mail(s) deleted</source>
@@ -9865,7 +9865,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/mail/processed-mail-dialog/processed-mail-dialog.component.ts</context>
           <context context-type="linenumber">72</context>
         </context-group>
-        <target state="needs-translation">Processed mail(s) deleted</target>
+        <target state="translated">İşlenmiş posta veya postalar silindi</target>
       </trans-unit>
       <trans-unit id="4010735610815226758" datatype="html">
         <source>Filter by:</source>
@@ -9965,7 +9965,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
           <context context-type="linenumber">196</context>
         </context-group>
-        <target state="needs-translation">Successfully created <x id="PH" equiv-text="this.typeName"/>.</target>
+        <target state="translated"><x id="PH" equiv-text="this.typeName"/> başarıyla oluşturuldu.</target>
       </trans-unit>
       <trans-unit id="3928835053823658072" datatype="html">
         <source>Error occurred while creating <x id="PH" equiv-text="this.typeName"/>.</source>
@@ -9973,7 +9973,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
           <context context-type="linenumber">201</context>
         </context-group>
-        <target state="needs-translation">Error occurred while creating <x id="PH" equiv-text="this.typeName"/>.</target>
+        <target state="translated"><x id="PH" equiv-text="this.typeName"/> oluşturulurken bir hata meydana geldi.</target>
       </trans-unit>
       <trans-unit id="4835942264662718903" datatype="html">
         <source>Successfully updated <x id="PH" equiv-text="this.typeName"/> &quot;<x id="PH_1" equiv-text="object.name"/>&quot;.</source>
@@ -10574,7 +10574,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">76</context>
         </context-group>
-        <target state="needs-translation">Output Type</target>
+        <target state="translated">Çıktı Türü</target>
       </trans-unit>
       <trans-unit id="2826581353496868063" datatype="html">
         <source>Language</source>
@@ -10582,7 +10582,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">84</context>
         </context-group>
-        <target state="needs-translation">Language</target>
+        <target state="translated">Dil</target>
       </trans-unit>
       <trans-unit id="1713271461473302108" datatype="html">
         <source>Mode</source>
@@ -10590,7 +10590,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">98</context>
         </context-group>
-        <target state="needs-translation">Mode</target>
+        <target state="translated">Mod</target>
       </trans-unit>
       <trans-unit id="6114528299376689399" datatype="html">
         <source>Skip Archive File</source>
@@ -10598,7 +10598,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">106</context>
         </context-group>
-        <target state="needs-translation">Skip Archive File</target>
+        <target state="translated">Arşiv Dosyasını Atla</target>
       </trans-unit>
       <trans-unit id="1115402553541327390" datatype="html">
         <source>Image DPI</source>
@@ -10606,7 +10606,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">114</context>
         </context-group>
-        <target state="needs-translation">Image DPI</target>
+        <target state="translated">Görüntü DPI</target>
       </trans-unit>
       <trans-unit id="6352596107300820129" datatype="html">
         <source>Clean</source>
@@ -10614,7 +10614,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">121</context>
         </context-group>
-        <target state="needs-translation">Clean</target>
+        <target state="translated">Sıfırdan İşle</target>
       </trans-unit>
       <trans-unit id="725308589819024010" datatype="html">
         <source>Deskew</source>
@@ -10622,7 +10622,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">129</context>
         </context-group>
-        <target state="needs-translation">Deskew</target>
+        <target state="translated">Deskew</target>
       </trans-unit>
       <trans-unit id="6256076128297775802" datatype="html">
         <source>Rotate Pages</source>
@@ -10630,7 +10630,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">136</context>
         </context-group>
-        <target state="needs-translation">Rotate Pages</target>
+        <target state="translated">Sayfaları Döndür</target>
       </trans-unit>
       <trans-unit id="8527188778859256947" datatype="html">
         <source>Rotate Pages Threshold</source>
@@ -10638,7 +10638,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">143</context>
         </context-group>
-        <target state="needs-translation">Rotate Pages Threshold</target>
+        <target state="translated">Sayfalar Döndürmek İçin Gerekli Eşik Değeri</target>
       </trans-unit>
       <trans-unit id="3762131309176747817" datatype="html">
         <source>Max Image Pixels</source>
@@ -10750,7 +10750,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">242</context>
         </context-group>
-        <target state="needs-translation">Max Pages</target>
+        <target state="translated">Maksimum Sayfa Sayısı</target>
       </trans-unit>
       <trans-unit id="7410804727457548947" datatype="html">
         <source>Enable Tag Detection</source>
@@ -10758,7 +10758,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">249</context>
         </context-group>
-        <target state="needs-translation">Enable Tag Detection</target>
+        <target state="translated">Etiket Algılamayı Etkinleştir</target>
       </trans-unit>
       <trans-unit id="3723784143052004117" datatype="html">
         <source>Tag Mapping</source>
@@ -10766,7 +10766,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">256</context>
         </context-group>
-        <target state="needs-translation">Tag Mapping</target>
+        <target state="translated">Etiket Eşlemesi</target>
       </trans-unit>
       <trans-unit id="5948496158474272829" datatype="html">
         <source>Warning: You have unsaved changes to your document(s).</source>
@@ -10774,7 +10774,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/guards/dirty-doc.guard.ts</context>
           <context context-type="linenumber">16</context>
         </context-group>
-        <target state="needs-translation">Warning: You have unsaved changes to your document(s).</target>
+        <target state="translated">Uyarı: Belge(ler)inizde kaydedilmemiş değişiklikler var.</target>
       </trans-unit>
       <trans-unit id="159901853873315050" datatype="html">
         <source>Unsaved Changes</source>
@@ -10830,7 +10830,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/guards/dirty-saved-view.guard.ts</context>
           <context context-type="linenumber">29</context>
         </context-group>
-        <target state="needs-translation">You have unsaved changes to the saved view</target>
+        <target state="translated">Kaydedilmiş görünümde kaydedilmemiş değişiklikleriniz var</target>
       </trans-unit>
       <trans-unit id="7282050913165342352" datatype="html">
         <source>Are you sure you want to close this saved view?</source>
@@ -10838,7 +10838,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/guards/dirty-saved-view.guard.ts</context>
           <context context-type="linenumber">33</context>
         </context-group>
-        <target state="needs-translation">Are you sure you want to close this saved view?</target>
+        <target state="translated">Bu kaydedilmiş görünümü kapatmak istediğinizden emin misiniz?</target>
       </trans-unit>
       <trans-unit id="856284624775342512" datatype="html">
         <source>Save and close</source>
@@ -10846,7 +10846,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/guards/dirty-saved-view.guard.ts</context>
           <context context-type="linenumber">37</context>
         </context-group>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Kaydet ve kapat</target>
       </trans-unit>
       <trans-unit id="8311312207500500516" datatype="html">
         <source>You don&apos;t have permissions to do that</source>
@@ -10854,7 +10854,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/guards/permissions.guard.ts</context>
           <context context-type="linenumber">34</context>
         </context-group>
-        <target state="needs-translation">You don't have permissions to do that</target>
+        <target state="translated">Bunu yapmak için gerekli izinlere sahip değilsiniz</target>
       </trans-unit>
       <trans-unit id="3566342898065860218" datatype="html">
         <source>Last year</source>
@@ -10870,7 +10870,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/pipes/custom-date.pipe.ts</context>
           <context context-type="linenumber">15</context>
         </context-group>
-        <target state="needs-translation">%s years ago</target>
+        <target state="translated">%s yıl önce</target>
       </trans-unit>
       <trans-unit id="4463380307954693363" datatype="html">
         <source>Last month</source>
@@ -10886,7 +10886,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/pipes/custom-date.pipe.ts</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">%s months ago</target>
+        <target state="translated">%s ay önce</target>
       </trans-unit>
       <trans-unit id="7591870443991978948" datatype="html">
         <source>Last week</source>
@@ -10894,7 +10894,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/pipes/custom-date.pipe.ts</context>
           <context context-type="linenumber">24</context>
         </context-group>
-        <target state="needs-translation">Last week</target>
+        <target state="translated">Geçen hafta</target>
       </trans-unit>
       <trans-unit id="2896962543647781653" datatype="html">
         <source>%s weeks ago</source>
@@ -10902,7 +10902,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/pipes/custom-date.pipe.ts</context>
           <context context-type="linenumber">25</context>
         </context-group>
-        <target state="needs-translation">%s weeks ago</target>
+        <target state="translated">%s hafta önce</target>
       </trans-unit>
       <trans-unit id="5601594741748068208" datatype="html">
         <source>%s days ago</source>
@@ -10910,7 +10910,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/pipes/custom-date.pipe.ts</context>
           <context context-type="linenumber">30</context>
         </context-group>
-        <target state="needs-translation">%s days ago</target>
+        <target state="translated">%s gün önce</target>
       </trans-unit>
       <trans-unit id="8387405724402999437" datatype="html">
         <source>%s hour ago</source>
@@ -10918,7 +10918,7 @@ tüm <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> krite
           <context context-type="sourcefile">src/app/pipes/custom-date.pipe.ts</context>
           <context context-type="linenumber">34</context>
         </context-group>
-        <target state="needs-translation">%s hour ago</target>
+        <target state="translated">%s saat önce</target>
       </trans-unit>
       <trans-unit id="2008395012733474465" datatype="html">
         <source>%s hours ago</source>
