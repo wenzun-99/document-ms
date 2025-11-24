@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="5147333989075115032" datatype="html">
         <source>Document <x id="PH" equiv-text="status.filename"/> is being processed.</source>
-        <target state="new">Document <x id="PH" equiv-text="status.filename"/> is being processed by paperless.</target>
+        <target state="new">Document <x id="PH" equiv-text="status.filename"/> is being processed.</target>
       </trans-unit>
       <trans-unit id="5151074932731293042" datatype="html">
         <source>Unowned</source>

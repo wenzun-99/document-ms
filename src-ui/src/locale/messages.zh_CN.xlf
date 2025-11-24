@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.slide-number" datatype="html">
         <source> Slide <x id="INTERPOLATION"/> of <x id="INTERPOLATION_1"/> </source>
-        <target state="new"> 幻灯片 <x id="INTERPOLATION" equiv-text="ueryList&lt;NgbSli"/>/<x id="INTERPOLATION_1" equiv-text="EventSource = N"/> </target>
+        <target state="translated"> 幻灯片 <x id="INTERPOLATION" equiv-text="ueryList&lt;NgbSli"/>/<x id="INTERPOLATION_1" equiv-text="EventSource = N"/> </target>
         <note priority="1" from="description">Currently selected slide number read by screen reader</note>
       </trans-unit>
       <trans-unit id="ngb.carousel.previous" datatype="html">
@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="ngb.progressbar.value" datatype="html">
         <source><x id="INTERPOLATION"/></source>
-        <target state="new"><x id="INTERPOLATION" equiv-text="barConfig); pu"/></target>
+        <target state="translated"><x id="INTERPOLATION" equiv-text="barConfig); pu"/></target>
       </trans-unit>
       <trans-unit id="1931214133925051574" datatype="html">
         <source>Open document</source>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="9194436559759028496" datatype="html">
         <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, it will start training its machine learning algorithms.</source>
-        <target state="new">拖放文档到此处开始上传或将其放置在消费文件夹中。 您也可以在网页所有其他页面上随时拖放文档。一旦您这样做，Paperless ngx将开始培训它的机器学习算法。</target>
+        <target state="translated">将文档拖放到此处开始上传，或将它们放入消费文件夹。您也可以在应用的任何页面上拖放文档。一旦执行，系统将开始训练其机器学习算法。</target>
       </trans-unit>
       <trans-unit id="7495498057594070122" datatype="html">
         <source>The documents list shows all of your documents and allows for filtering as well as bulk-editing. There are three different view styles: list, small cards and large cards. A list of documents currently opened for editing is shown in the sidebar.</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="5431926573373421355" datatype="html">
         <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using!</source>
-        <target state="new">最后，代表社区支持项目的每个贡献者，感谢您使用无纸版！</target>
+        <target state="translated">最后，代表社区支持项目的每个贡献者，感谢您使用无纸版！</target>
       </trans-unit>
       <trans-unit id="9063918187161876141" datatype="html">
         <source>Application Configuration</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="1044218812917249554" datatype="html">
         <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
-        <target state="new">适用于 &lt;strong&gt;的全局应用程序配置选项。此安装的 Paperless-ngx 的每个&lt;/strong&gt; 用户。 也可以使用环境变量或配置文件来设置选项，但此处的值总是优先。</target>
+        <target state="translated">适用于 &lt;strong&gt;此安装中每位用户&lt;/strong&gt; 的全局应用配置选项。也可以使用环境变量或配置文件设置选项，但此处的值始终优先。</target>
       </trans-unit>
       <trans-unit id="7991430199894172363" datatype="html">
         <source>Read the documentation about this setting</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="5258854481531644707" datatype="html">
         <source>Document <x id="PH" equiv-text="status.filename"/> was added.</source>
-        <target state="new">Document <x id="PH" equiv-text="status.filename"/> was added.</target>
+        <target state="translated">文档 <x id="PH" equiv-text="status.filename"/> 已添加。</target>
       </trans-unit>
       <trans-unit id="8491974984518503778" datatype="html">
         <source>Reload now</source>
@@ -660,7 +660,7 @@
       </trans-unit>
       <trans-unit id="2525392428366577439" datatype="html">
         <source>Use workflows to customize the behavior when events &apos;trigger&apos; a workflow.</source>
-        <target state="new">Use workflows to customize the behavior when events &apos;trigger&apos; a workflow.</target>
+        <target state="translated">使用工作流来自定义当事件“触发”工作流时的行为。</target>
       </trans-unit>
       <trans-unit id="5404910960991552159" datatype="html">
         <source>Dismiss selected</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="8122811747478274316" datatype="html">
         <source>Only applies to the PDF viewer.</source>
-        <target state="new">Only applies to the PDF viewer.</target>
+        <target state="translated">仅适用于 PDF 查看器。</target>
       </trans-unit>
       <trans-unit id="4569276013106377105" datatype="html">
         <source>Create, delete and edit users and groups.</source>
@@ -820,7 +820,7 @@
       </trans-unit>
       <trans-unit id="5249923370006980017" datatype="html">
         <source>More detail on how to use and configure is always available.</source>
-        <target state="new">More detail on how to use and configure is always available.</target>
+        <target state="translated">有关如何使用和配置的详细信息始终可用。</target>
       </trans-unit>
       <trans-unit id="5944812089887969249" datatype="html">
         <source>Groups</source>
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="3549137460342594962" datatype="html">
         <source>It can automatically check for updates</source>
-        <target state="new">It can automatically check for updates</target>
+        <target state="translated">它可以自动检查更新。</target>
       </trans-unit>
       <trans-unit id="2526035785704676448" datatype="html">
         <source>An error occurred while saving update checking settings.</source>
@@ -1396,7 +1396,7 @@
       </trans-unit>
       <trans-unit id="1689830155433891999" datatype="html">
         <source>Will only process mails that match <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/>all<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> of the criteria specified below.</source>
-        <target state="new">Paperless-ngx 只会处理符合以下所有过滤规则的邮件。</target>
+        <target state="translated">只会处理符合以下所有过滤规则的邮件。</target>
       </trans-unit>
       <trans-unit id="7046259383943324039" datatype="html">
         <source>Folder</source>
@@ -1784,7 +1784,7 @@
       </trans-unit>
       <trans-unit id="5481266812870879269" datatype="html">
         <source>Information about processed mail.</source>
-        <target state="new">Information about processed mail.</target>
+        <target state="translated">有关已处理邮件的信息。</target>
       </trans-unit>
       <trans-unit id="5491897741674893121" datatype="html">
         <source>Apply to documents that match this path. Wildcards specified as * are allowed. Case-normalized.&lt;/a&gt;</source>
@@ -2008,7 +2008,7 @@
       </trans-unit>
       <trans-unit id="5280528306659399804" datatype="html">
         <source>Thanks for being a part of the community!</source>
-        <target state="new">Thanks for being a part of the community!</target>
+        <target state="translated">感谢您成为本社区的一员！</target>
       </trans-unit>
       <trans-unit id="5281365940563983618" datatype="html">
         <source>Has correspondent</source>
@@ -2868,7 +2868,7 @@
       </trans-unit>
       <trans-unit id="7206723502037428235" datatype="html">
         <source>Notes <x id="START_BLOCK_IF" equiv-text="@if (document?.notes.length) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge text-bg-secondary ms-1&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{document.notes.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></source>
-        <target state="new">备注 <x id="START_BLOCK_IF" equiv-text="@if (document?.notes.length) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge text-bg-secondary ms-1&quot;&gt;"/><x id="INTERPOLATION" equiv-text="ngth}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">备注 <x id="START_BLOCK_IF" equiv-text="@if (document?.notes.length) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge text-bg-secondary ms-1&quot;&gt;"/><x id="INTERPOLATION" equiv-text="ngth}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="186236568870281953" datatype="html">
         <source>History</source>
@@ -3306,7 +3306,7 @@
       </trans-unit>
       <trans-unit id="5147333989075115032" datatype="html">
         <source>Document <x id="PH" equiv-text="status.filename"/> is being processed.</source>
-        <target state="new">Document <x id="PH" equiv-text="status.filename"/> is being processed.</target>
+        <target state="translated">文档 <x id="PH" equiv-text="status.filename"/> 正在处理。</target>
       </trans-unit>
       <trans-unit id="2123659921722214537" datatype="html">
         <source>Views</source>
@@ -3882,7 +3882,7 @@
       </trans-unit>
       <trans-unit id="8281204756919819081" datatype="html">
         <source>Running!</source>
-        <target state="new">Running!</target>
+        <target state="translated">运行中！</target>
       </trans-unit>
       <trans-unit id="1930477323485553035" datatype="html">
         <source>Customize the views of your documents.</source>
